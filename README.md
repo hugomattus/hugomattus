@@ -2,6 +2,15 @@
 <h3 align="center">Front end Developer</h3>
 
 
+🔭 - No momento estou em busca da primeira oportunidade na área de tecnologia
+
+🌱 - Atualmente estudando JavaScipt e Reactjs 
+
+🤝 - Contate-me: hugomattusdd@gmail.com
+
+
+
+
  <div> 
   <a href="https://contate.me/HugoMatos" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:hugomattusdd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
