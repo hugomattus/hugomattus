@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Matos</h1>
 <h3 align="center">Front end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugomattus&label=Profile%20views&color=0e75b6&style=flat" alt="hugomattus" /> </p>
 
  <div> 
   <a href="https://contate.me/HugoMatos" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -16,7 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugomattus&show_icons=true&theme=dark&locale=en" alt="hugomattus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugomattus&theme=dark" alt="hugomattus" /></p>  
   
   
   
@@ -24,13 +22,4 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
+ 
