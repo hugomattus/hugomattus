@@ -2,7 +2,7 @@
 <h3 align="center">Front end Developer</h3>
 
 
-🔭 - No momento estou em busca da primeira oportunidade na área de tecnologia
+🔭 - No momento estou em busca da primeira oportunidade na área de tecnologia.
 
 🌱 - Atualmente estudando JavaScipt e Reactjs 
 
